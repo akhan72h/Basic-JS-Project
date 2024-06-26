@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+
+    width: 60%;
+    margin: auto;
+    background: bisque;
+    padding: 50px 0;
+}
+h1,h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+form{
+    width: 80%;
+    margin: 50px auto;
+    padding: 70px;
+    background: beige;
+    box-shadow: 0 0 10px 0;
+    
+}
+input{
+    width: 100%;
+    padding: 15px;
+    border: none;
+    margin: 30px 0;
+
+}
+.input{
+    width: 70%;
+    display: inline-block;
+}
+.parent{
+    width: 80%;
+    margin: auto;
+}
+button{
+    width: 100%;
+    padding: 15px;
+    border: none;
+    background: rgb(101, 42, 42);
+    color: beige;
+}
+ label {
+ 
+    font-size: 20px;
+    color:  rgb(101, 42, 42);
+    font-weight: bold;
+}
+.label{
+    width: 29%;
+    display: inline-block;
+}
+.bmi-guide{
+   
+    color:rgb(101, 42, 42);
+    width: 50%;
+    margin: auto;
+    background: beige;
+    padding: 40px;
+    box-shadow: 0 0 10px 0;
+    text-align: center;
+    font-size: 15px;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+.card{
+    margin: auto;
+}
+.para{
+    width: 70%;
+    margin: auto;
+    font-weight: bold;
+    margin-bottom: 35px;
+    text-align: center;
+}

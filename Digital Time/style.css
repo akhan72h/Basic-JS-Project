@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: beige;
+}
+.container{
+    max-width: 1200px;
+    margin: 100px auto;
+    background: beige;
+    padding: 120px;
+
+}
+.bg-box{
+    width: 450px;
+    margin: auto;
+    padding: 60px;
+    background: #000;
+}
+
+h2{
+    text-align: center;
+    color: orange;
+}
+.clock{
+    width: 200px;
+    height: 100px;
+    background: orange;
+    color: black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    border-radius: 20px;
+
+}
